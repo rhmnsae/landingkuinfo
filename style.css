@@ -191,6 +191,11 @@ button {
   background: var(--accent);
 }
 
+.brand-tools:hover {
+  background: #EFF6FF;
+  border-color: #3B82F6;
+}
+
 .demo-grid {
   display: grid;
   grid-template-columns: 1fr;
